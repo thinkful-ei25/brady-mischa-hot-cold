@@ -2,6 +2,10 @@
   "name": "hot-cold",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.4.1",
+    "node": "11.1.0"
+  },
   "proxy": "http://localhost:8080/",
   "devDependencies": {
     "react-scripts": "0.9.0"
